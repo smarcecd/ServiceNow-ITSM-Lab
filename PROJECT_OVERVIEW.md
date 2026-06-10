@@ -36,7 +36,12 @@ Created and worked a real‑world incident scenario:
 - Added work notes, troubleshooting steps, and resolution  
 - Closed with user confirmation  
 
-**Skills demonstrated:** ticket lifecycle, assignment, communication, documentation, SLA awareness.
+**Skills demonstrated:** 
+* Incident lifecycle management
+* Ticket documentation
+* User communication
+* Resolution tracking
+* ITIL Incident Management process
 
 ---
 
@@ -47,7 +52,11 @@ Built a fully functional **New Laptop Request** catalog item:
 - Assigned to the IT Hardware fulfillment group  
 - Designed for new‑hire and replacement workflows  
 
-**Skills demonstrated:** catalog design, variable creation, request fulfillment structure.
+**Skills demonstrated:**
+* Service Catalog administration
+* Self-service request design
+* Form customization
+* Request fulfillment planning
 
 ---
 
@@ -58,7 +67,12 @@ Created a Standard Change Request for a Windows security patch deployment:
 - Submitted for approval and processed the approval workflow  
 - Moved the change to Scheduled state  
 
-**Skills demonstrated:** change lifecycle, risk assessment, approval workflows, ITIL governance.
+**Skills demonstrated:**
+* Change lifecycle management
+* Risk assessment
+* Change approval workflows
+* Deployment planning
+* ITIL Change Management process
 
 ---
 
@@ -69,7 +83,11 @@ Generated multiple ITSM reports:
 - **Mean Time to Resolution (MTTR)** by Assignment Group  
 - **Open Incidents by Assigned Agent**  
 
-**Skills demonstrated:** analytics, operational visibility, KPI tracking.
+**Skills demonstrated:**
+* ServiceNow reporting
+* Operational analytics
+* KPI tracking
+* Service performance monitoring
 
 ---
 
